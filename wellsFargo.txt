@@ -1,0 +1,35 @@
+
+
+1. tell us about yourself
+    my youngest is in the 2nd grade she is my lovely little princess
+    father of 2 oldest high school football
+    I love football so much
+
+2. tell us about a time you have overcome an opsticle
+    learning mongo db quickly.
+    codecodomy
+    reading documentation
+
+
+3. can you name something you are excited about or most proud of
+    -I am most proud of quickly becoming the lead intern engineer with iServiceWeb
+            after demostrating collaberation skills but my leadership and big picture vision skills
+        a. code reviews
+        b. meeting one on one with interns to resolve blockers
+        c. meeting with the project manager and other leadership for overall direction of the project.
+    -This is what I am most proud of because when I was hired with iServiceWeb I said I wanted to get the most out of the internship and I believe I have done just that. By not only gaining valuable experience in developing a large scale applicaiton but learning how to lead in the software role.
+
+4. Why do you want to work for Wells Fargo?
+    - This is a huge opportunity wells fargo is ubiquitous.
+    - build a career
+
+    Data Structure:
+
+SQL: Uses structured data with predefined schemas. Data is organized in tables with rows and columns.
+NoSQL: Supports various data models including document, key-value, wide-column, and graph. Schemas are typically flexible.
+
+8 people teams
+
+incapsolation
+
+waht does static mean in java
