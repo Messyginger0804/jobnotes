@@ -1,0 +1,11 @@
+
+
+chapter (1) - Tech Skills
+    1. Skills
+    2. make sudo code comments in the code
+    3. follow the rabbit hole
+        a. understand what the every little thing is doing in the application.
+chapter (2) - Pick your tech stack wisely
+    1. check the market you are living in learn the stack that is needed for the area.
+chapter (3) - actively update your LinkedIn profile
+    1. keep your profile active and update it with information. This is an online resume.
