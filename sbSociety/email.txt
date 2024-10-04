@@ -1,0 +1,36 @@
+Subject: Application for Full Stack Developer Role - FB Society
+
+Hi Mikaela,
+
+I target mostly small businesses that I find on the streets driving. Here are some clients I have worked with in the past:
+
+https://jldcounseling.com
+https://www.iserviceweb.io
+https://topflightlawnservice.vercel.app
+
+
+Thank you for considering me for the Full Stack Developer role at FB Society! This opportunity excites me as it aligns closely with both my technical skills and professional background. Below is a summary of my experience and how it fits your requirements:
+
+**Experience & Technologies:**
+
+- **Decade of Restaurant Management Experience**: Having spent over 10 years managing restaurants, I have a strong understanding of the hospitality industry and can empathize with end-users’ needs, allowing me to translate client requirements into effective digital solutions.
+
+- **React & Next.js Expertise**: I have extensive experience building scalable and high-performing web applications using React and Next.js, with a focus on performance, responsiveness, and user experience.
+
+- **CMS**: I have worked with headless CMS platforms like WordPress.
+
+- **AWS & GCP**: While my work with AWS has been limited, I am eager to deepen my experience with cloud platforms. I am actively looking for a role that allows me to dive deeper into AWS and GCP, enhancing my cloud skills and contributing to an innovative development team.
+
+- **Vercel for Deployment**: I currently use Vercel to deploy my blog (https://blogsbyjc.vercel.app/), and I am well-versed in utilizing its capabilities to ensure seamless and efficient deployment processes.
+
+- **Design & Frontend Development**: My background in JavaScript, TailwindCSS, and various UI frameworks enables me to build user-friendly and responsive interfaces while focusing on clean, efficient code.
+
+- **APIs & Integrations**: I am skilled in integrating third-party APIs and have experience with both SQL and NOSQL for data handling.
+
+- **Fast-paced & Collaborative Environment**: My ability to self-manage, take initiative, and handle multiple projects efficiently fits well with a fast-paced culture like FB Society’s, and I'm enthusiastic about contributing to a team that fosters innovation.
+
+
+I am excited about the opportunity to work with FB Society and leverage my skills and industry experience to contribute meaningfully to your digital platforms. Please find my resume attached for your review, and I look forward to discussing this opportunity further!
+
+Best regards,  
+Jeremy Ashley
