@@ -1,0 +1,7 @@
+I had the pleasure of supervising Jeremy Ashley during his time as an intern at iServiceWeb, where he consistently demonstrated a level of technical expertise and dedication that far exceeded expectations. From day one, Jeremy showcased an impressive ability to take on complex tasks and quickly deliver high-quality results.
+
+One of Jeremy's most notable achievements was his work on our backend systems. He successfully developed and maintained a robust Node.js backend, implemented secure user authentication, and seamlessly integrated online payment solutions, including Stripe, into our platform. His work ensured that our subscription management features ran smoothly, providing a seamless experience for our users.
+
+Jeremy took on a leadership role as the lead intern engineer, excelling in his tasks while mentoring other interns and sharing insights across the application. His proactive approach and collaborative spirit earned him recognition from senior engineers. Additionally, he played a crucial role in organizing and leading a GitHub workshop, effectively improving our team's workflow by clearly communicating complex concepts.
+
+I highly recommend Jeremy Ashley for any software engineering role. His technical acumen, leadership qualities, and unwavering dedication to excellence make him an exceptional candidate. I have no doubt that he will continue to excel and make significant contributions to any organization he joins.

@@ -1,0 +1,77 @@
+MongoDB Basics Interview Questions:
+
+1. **What is MongoDB?**
+   - MongoDB is a NoSQL, document-oriented database that stores data in a flexible, JSON-like format called BSON (Binary JSON). It is designed for scalability and flexibility, making it suitable for large-scale applications.
+
+2. **How is MongoDB different from relational databases like MySQL or PostgreSQL?**
+   - **Data structure**: MongoDB stores data in flexible, schema-less documents (BSON), while relational databases use structured tables with rows and columns.
+   - **Joins**: MongoDB doesn't require joins between tables, relying on embedded documents or references, whereas relational databases commonly use joins.
+   - **Scalability**: MongoDB is designed for horizontal scaling (sharding), while traditional relational databases use vertical scaling.
+
+4. **What is a document in MongoDB?**
+   - A document is a record in MongoDB, stored in BSON format. It is analogous to a row in a relational database but is more flexible since fields can vary from document to document.
+
+5. **What are the advantages of using MongoDB?**
+   - Schema flexibility
+   - Scalability (horizontal)
+   - High performance for large datasets
+   - Rich querying and indexing capabilities
+   - Support for distributed environments (replication and sharding)
+
+6. **What is BSON in MongoDB?**
+   - BSON stands for Binary JSON. It is the data format used by MongoDB to store documents. BSON supports data types not available in JSON, such as ObjectId, Date, and binary data.
+
+7. **What is an ObjectId in MongoDB?**
+   - An ObjectId is a 12-byte unique identifier used as the default `_id` field for MongoDB documents. It consists of a timestamp, machine identifier, process ID, and a random incrementing value.
+
+8. **How does indexing work in MongoDB?**
+   - Indexes in MongoDB improve query performance by allowing the database to search efficiently through documents. The most common index is on the `_id` field, but users can create custom indexes on other fields.
+
+9. **What is sharding in MongoDB?**
+   - Sharding is the process of distributing data across multiple servers (shards) to scale horizontally. It allows MongoDB to handle large datasets by splitting data across different machines based on a shard key.
+
+10. **What is replication in MongoDB?**
+   - Replication is the process of synchronizing data across multiple servers to ensure high availability. MongoDB uses replica sets for replication, where one node is the primary and others are secondaries that replicate data from the primary.
+
+12. **How do you perform a query in MongoDB?**
+   - You can query a MongoDB collection using the `find()` method. Example:
+     ```js
+     db.collection.find({ field: value })
+     ```
+     This query returns documents where `field` matches `value`.
+
+13. **What is aggregation in MongoDB?**
+   - Aggregation is a way of processing and transforming data in MongoDB, similar to SQL's `GROUP BY` clause. The `aggregate()` function allows operations like filtering, grouping, and sorting using stages.
+
+14. **What are the CRUD operations in MongoDB?**
+   - **Create**: Insert documents using `insertOne()` or `insertMany()`.
+   - **Read**: Retrieve documents using `find()` or `findOne()`.
+   - **Update**: Modify documents using `updateOne()`, `updateMany()`, or `findOneAndUpdate()`.
+   - **Delete**: Remove documents using `deleteOne()` or `deleteMany()`.
+
+15. **What is the purpose of the `$set` operator in MongoDB?**
+   - The `$set` operator is used to update specific fields in a document. If the field does not exist, it will be created. Example:
+     ```js
+     db.collection.updateOne({ _id: ObjectId("id") }, { $set: { field: newValue } })
+     ```
+
+16. **What is the difference between `find()` and `findOne()` in MongoDB?**
+   - `find()` returns a cursor to all matching documents in a collection, while `findOne()` returns a single document that matches the query.
+
+
+
+        Launch reservatrion 
+what was the name of the project
+    react/vuejs
+
+    backend is java springboot and mongodb
+
+
+
+interview: Agile: sprint to spring
+
+
+the speed and the pace they use in house is more effitived          
+
+
+the culter is very good. you ahve sco[pe to learn new things if you are confiednet enough to renders 
